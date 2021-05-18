@@ -38,9 +38,17 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone (66)
 69,North,0,66,South,10
-# Route 1 (48) - Pallet Town (33)
-48,South,10,33,North,0
+# Pallet Town (33) - Route 1 (48)
+33,North,0,48,South,10
 # Viridian City (76) - Route 1 (48)
 76,South,9,48,North,0
+# Terracotta Path (80) - Route 1 (48)
+80,South,0,48,North,48
 # Route 22 (78) - Viridian City (76)
 78,East,0,76,West,1
+# Route 2 (79) - Viridian City (76)
+79,South,0,76,North,7
+# Terracotta Path (80) - Viridian City (76)
+80,West,29,76,East,0
+# Terracotta Path (80) - Route 2 (79)
+80,West,0,79,East,53
